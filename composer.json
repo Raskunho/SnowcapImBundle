@@ -1,8 +1,7 @@
 {
   "name": "snowcap/snowcapimbundle",
+  "description": "Image manipulation bundle for Symfony2",
   "type": "symfony-bundle",
-  "description": "Snowcap Im Bundle (legacy compatibility fix)",
-  "keywords": ["symfony", "bundle", "snowcap"],
   "license": "MIT",
   "autoload": {
     "psr-0": {
