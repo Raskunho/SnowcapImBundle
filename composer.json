@@ -1,6 +1,15 @@
 {
-    "require": {
-        "symfony/symfony": "v2.0.15",
-        "mikey179/vfsStream": "v1.0.0"
+  "name": "snowcap/snowcapimbundle",
+  "type": "symfony-bundle",
+  "description": "Snowcap Im Bundle (legacy compatibility fix)",
+  "keywords": ["symfony", "bundle", "snowcap"],
+  "license": "MIT",
+  "autoload": {
+    "psr-0": {
+      "Snowcap\\ImBundle": ""
     }
+  },
+  "require": {
+    "php": ">=5.3.0"
+  }
 }
